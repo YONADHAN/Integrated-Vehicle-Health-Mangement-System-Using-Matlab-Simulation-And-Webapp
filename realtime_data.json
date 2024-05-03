@@ -1,0 +1,205 @@
+{
+  "pressure": [
+    {
+      "signalNumber": 1,
+      "time": 1,
+      "data": 1000,
+      "lowerThreshold": -4,
+      "upperThreshold": 6,
+      "message": "Exceeded upper threshold"
+    },
+    
+    {
+      "signalNumber": 3,
+      "time": 3,
+      "data": 1500,
+      "lowerThreshold": 9,
+      "upperThreshold": 21,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 4,
+      "time": 4,
+      "data": 1200,
+      "lowerThreshold": 5,
+      "upperThreshold": 19,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 5,
+      "time": 5,
+      "data": 1000,
+      "lowerThreshold": 2,
+      "upperThreshold": 18,
+      "message": "Exceeded upper threshold"
+    }
+  ],
+  "temperature": [
+    {
+      "signalNumber": 6,
+      "time": 6,
+      "data": 6000,
+      "lowerThreshold": 0,
+      "upperThreshold": 12,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 7,
+      "time": 7,
+      "data": 7000,
+      "lowerThreshold": 64,
+      "upperThreshold": 76,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 8,
+      "time": 8,
+      "data": 4000,
+      "lowerThreshold": 34,
+      "upperThreshold": 46,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 9,
+      "time": 9,
+      "data": 2700,
+      "lowerThreshold": 21,
+      "upperThreshold": 33,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 10,
+      "time": 10,
+      "data": 2000,
+      "lowerThreshold": 14,
+      "upperThreshold": 26,
+      "message": "Exceeded upper threshold"
+    }
+  ],
+  "velocity": [
+    {
+      "signalNumber": 11,
+      "time": 11,
+      "data": 1100,
+      "lowerThreshold": 5,
+      "upperThreshold": 17,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 12,
+      "time": 12,
+      "data": 1200,
+      "lowerThreshold": 114,
+      "upperThreshold": 126,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 13,
+      "time": 13,
+      "data": 6500,
+      "lowerThreshold": 59,
+      "upperThreshold": 71,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 14,
+      "time": 14,
+      "data": 4200,
+      "lowerThreshold": 36,
+      "upperThreshold": 48,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 15,
+      "time": 15,
+      "data": 3000,
+      "lowerThreshold": 24,
+      "upperThreshold": 36,
+      "message": "Exceeded upper threshold"
+    }
+  ],
+  "humidity": [
+    {
+      "signalNumber": 16,
+      "time": 16,
+      "data": 1600,
+      "lowerThreshold": 10,
+      "upperThreshold": 22,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 17,
+      "time": 17,
+      "data": 1700,
+      "lowerThreshold": 164,
+      "upperThreshold": 176,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 18,
+      "time": 18,
+      "data": 9000,
+      "lowerThreshold": 84,
+      "upperThreshold": 96,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 19,
+      "time": 19,
+      "data": 5700,
+      "lowerThreshold": 51,
+      "upperThreshold": 63,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 20,
+      "time": 20,
+      "data": 4000,
+      "lowerThreshold": 34,
+      "upperThreshold": 46,
+      "message": "Exceeded upper threshold"
+    }
+  ],
+  "vibration": [
+    {
+      "signalNumber": 21,
+      "time": 21,
+      "data": 1000,
+      "lowerThreshold": -5,
+      "upperThreshold": 7,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 22,
+      "time": 22,
+      "data": 2000,
+      "lowerThreshold": 14,
+      "upperThreshold": 26,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 23,
+      "time": 23,
+      "data": 1500,
+      "lowerThreshold": 9,
+      "upperThreshold": 21,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 24,
+      "time": 24,
+      "data": 1200,
+      "lowerThreshold": 6,
+      "upperThreshold": 18,
+      "message": "Exceeded upper threshold"
+    },
+    {
+      "signalNumber": 25,
+      "time": 25,
+      "data": 1000,
+      "lowerThreshold": 4,
+      "upperThreshold": 16,
+      "message": "Exceeded upper threshold"
+    }
+  ]
+}
